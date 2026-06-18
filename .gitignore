@@ -1,0 +1,11 @@
+train_apps.csv
+test_apps.csv
+*.pkl
+platform_submission.csv
+submission.csv
+submission_platform.csv
+quick_advanced_submission.csv
+advanced_submission.csv
+model_predictions.csv
+submission_final_platform.csv
+.DS_Store
